@@ -3,3 +3,4 @@ An east-west bridge is shared between east cars and west cars. Each car is a pro
 2. No starvation: A car that attempts to cross the bridge eventually does so provided no car stays forever in the bridge.
 3. No busy waiting.
 This problem is like the readers-writers problem except that multiple writes can be ongoing at the same time.
+This problem is like the readers-writers problem except that multiple writes can be ongoing at the same time.
